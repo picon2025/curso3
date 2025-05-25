@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "Super fuerza",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Redes de telaraña",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnología",
+    "poder": [
+      "Armadura blindada",
+      "Volar",
+      "Láseres"
+    ],
+    "habilidadEspecial": "Ingeniería avanzada",
+    "aliado": [
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Mandarín"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Capitana Marvel",
+    "nombreReal": "Carol Danvers",
+    "nombreSociedad": "Avengers",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control emocional",
+    "poder": [
+      "Vuelo",
+      "Energía cósmica"
+    ],
+    "habilidadEspecial": "Explosiones fotónicas",
+    "aliado": [
+      "Nick Fury"
+    ],
+    "enemigo": [
+      "Ronan el Acusador"
+    ]
+  },
+    
+ 
+  {
+    "id": 41000,
+    "nombreSuperheroe": "carlos Electroman",
+    "nombreReal": "Carlos Volt",
+    "nombreSociedad": "Guardianes del Voltaje",
+    "edad": 32,
+    "planetaOrigen": "Neutronia",
+    "debilidad": "Agua salada",
+    "poder": [
+      "Electricidad pura",
+      "Control electromagnético"
+    ],
+    "habilidadEspecial": "Generar tormentas eléctricas",
+    "aliado": [
+      "Voltina"
+    ],
+    "enemigo": [
+      "Apagón"
+    ]
+  }
+]
